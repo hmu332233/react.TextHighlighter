@@ -1,7 +1,7 @@
 {
   "name": "texthighlighter",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "simple react component for text highlight",
   "main": "./lib/TextHighlighter.js",
   "scripts": {
     "build": "webpack"
