@@ -6,12 +6,12 @@ simple react component for text highlight
 
 ### install
 ```
-$ npm install --save TextHighlighter
+$ npm install --save react-simple-text-highlighter
 ```
 
 ### usage
 ```jsx
-import TextHighlighter from 'TextHighlighter';
+import TextHighlighter from 'react-simple-text-highlighter';
 
 <TextHighlighter 
   text="ABCDEFG"

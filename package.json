@@ -1,5 +1,5 @@
 {
-  "name": "texthighlighter",
+  "name": "react-simple-text-highlighter",
   "version": "1.0.0",
   "description": "simple react component for text highlight",
   "main": "./lib/TextHighlighter.js",
